@@ -1,0 +1,29 @@
+.task {
+  flex: 1;
+  background: transparent;
+  border: 1px solid #333333;
+  padding: 16px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.task p {
+  font-size: 14px;
+  line-height: 19px;
+  color: #333333;
+  margin-right: auto;
+}
+
+p.textCompleted {
+  color: #808080;
+  text-decoration: line-through;
+}
+
+.deleteButton {
+  background: none;
+  border: none;
+  color: #808080;
+}
