@@ -1,5 +1,7 @@
 # ขั้นตอนการรันโปรเจค
 
+node version 18.0.0
+
 ## Build Setup
 
 ```bash
